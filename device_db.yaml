@@ -3897,3 +3897,13 @@ SWITCH_ZEMISMART_TS0601_6GANG:
   info: Needs pinout. Secondary MCU. 6-gang!
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/209
   store: https://www.zemismart.com/products/tb26-6
+  TS0001_KYCCZPW8:
+    human_name: "Custom Switch KYCC"
+    category: "switch"
+    power: "mains"
+    neutral: "no"
+    device_type: "router"
+    manufacturer: "_TZ3000_kycczpw8"
+    model: "TS0001"
+    config: "BA0u;LC0;SB4u;RC2;"
+    build: yes
