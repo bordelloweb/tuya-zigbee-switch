@@ -2,7 +2,7 @@
   {
     "url": "https://github.com/bordelloweb/tuya-zigbee-switch/raw/main/bin/router/BOARD__TS0001_KYCCZPW8/tlc_switch-1.1.2-bfb5da33-forced.zigbee",
     "force": true,
-    "model": "TS0001_KYCCZPW8",
+    "model": "TS0001",
     "manufacturerName": [
       "_TZ3000_kycczpw8",
       "kycczpw8"
